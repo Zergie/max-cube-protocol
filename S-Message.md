@@ -185,7 +185,7 @@ To get the actual temperature, the value muast be divided by 2.
 
 Temperature Offset is decoded as following:
 
-    07 (hex) = 7 (decimal) -> 7/3 - 3.5 = 0
+    07 (hex) = 7 (decimal) -> 7/2 - 3.5 = 0
 
 ### Duration Window Open
 
